@@ -238,4 +238,18 @@ header {
         display: block;
     }
 }
+.product-grid{
+display:flex;
+flex-direction:column;
+align-items:center;
+gap:20px;
+}
+.product-card{
+    width:90%;
+    margin:10px 0;
+}
+h2{
+    font-size:1.8rem;
+}
+
 
